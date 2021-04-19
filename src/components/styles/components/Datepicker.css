@@ -1,0 +1,12 @@
+
+.react-datepicker-wrapper {
+   border: 0px solid gray !important;
+   align-items: center;
+}
+.react-datepicker__input-container {
+    border: 0px solid gray !important;
+    align-items: center;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+ }
